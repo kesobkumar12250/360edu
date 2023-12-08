@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Computer Programming News</title>
+    <link>https://cs360.byu.edu/</link>
+    <description>Computer Programming Daily Update News </description>
+    <item>
+      <title>Amar Sonar Bangla One</title>
+      <link>https://cs360.byu.edu/mov/video-animal-eng-tv.hd0064.html</link>
+      <description>This is the description for Item 1</description>
+      <pubDate>Thu, 09 Dec 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amar Sonar Bangla One Two</title>
+      <link>https://cs360.byu.edu/mov/video-animal-eng-tv.hd0015.html</link>
+      <description>This is the description for Item 2</description>
+      <pubDate>Thu, 09 Dec 2023 12:30:00 +0000</pubDate>
+    </item>
+	
+<item>
+      <title>Amar Sonar Bangla One Three</title>
+      <link>https://cs360.byu.edu/mov/video-animal-eng-tv.hd0093.html?stp</link>
+      <description>This is the description for Item 2</description>
+      <pubDate>Thu, 09 Dec 2023 12:30:00 +0000</pubDate>
+    </item>
+	
+  </channel>
+</rss>
